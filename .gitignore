@@ -1,0 +1,9 @@
+app/node_modules/
+app/.expo/
+app/.dart_tool/
+app/build/
+app/bin/
+app/obj/
+.env
+*.jks
+*.keystore
