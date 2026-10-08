@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuoteCraftMaui.MainPage"
+             Title="QuoteCraft MAUI"
+             BackgroundColor="#F5F1E8">
+  <VerticalStackLayout Padding="24" Spacing="20" VerticalOptions="Center">
+    <Label Text="QuoteCraft MAUI" FontSize="22" TextColor="#176B61" HorizontalTextAlignment="Center" />
+    <Label Text="Hello World!" FontSize="28" TextColor="#222222" HorizontalTextAlignment="Center" />
+  </VerticalStackLayout>
+</ContentPage>
